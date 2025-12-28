@@ -65,6 +65,9 @@ Framework and templates for a **SAFe‑aligned Cultural Immersion Assessment** t
 
 Patterns and lessons from multiple QMS/ERP implementations (QAD/CEBOS, Oracle, SAP): requirements structures, API mapping examples, and migration notes from legacy UI stacks to modern web and cloud environments.
 
+### 5. `it-start-up-bridging-the-cultural-divide
+
+As the only American working for a Chinese-based IT start-up and overseas partner, I bridged the cultural gap by managing all client, vendor and partner communications to develop computer telephony and industry-specific applications that operated on the Windows IP-based server. 
 ---
 
 ## 🤝 How I Work With Engineering
